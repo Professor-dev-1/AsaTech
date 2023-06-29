@@ -1,14 +1,21 @@
 body {
-background-color:	#FFFFE0;
+background-color: #5072A7;
   margin: opx;
   font-family: verdana,Georgia,serif;
   font size:14px;
 }
- #header { background-color: 	#FFFFE0
+ #header {
+   background-color: #9c9f84;
+   ;	
    margin: 10px;
-   height:50px;
+   height: 90px;
    
  }
 
-
+#navbar {
+  background-color: #0a2351;
+  margin: 0px;
+  height: 30px;
+  
+}
 
